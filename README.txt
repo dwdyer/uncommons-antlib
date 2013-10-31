@@ -58,19 +58,6 @@ MAVEN MACROS
                          JAR attached.
 
 
-ANDROID MACROS
-
-  Android Resources    - Generates the R.java file for an Android project.
-
-  Android Obfuscate    - Specialised version of the core obfuscate macro that
-                         preserves Android components that shouldn't be
-                         renamed.
-
-  Debug Package        - Create an APK signed with the debug key for testing.
-
-  Release Package      - Create an APK signed with a specified release key.
-
-
 CUSTOM TASKS
  
   DocBook - Generates formatted documentation from DocBook XML files using
